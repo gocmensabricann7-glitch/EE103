@@ -1,0 +1,7 @@
+pi = 355 / 113
+radius = 2.2
+
+# Dairenin alanı: pi * r^2
+area = pi * (radius ** 2)
+
+print("Area of the circle:", area)
