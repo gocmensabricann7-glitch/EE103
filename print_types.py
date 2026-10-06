@@ -1,0 +1,6 @@
+print("String tip:", "Merhaba")
+print("Integer tip:", 42)
+print("Float tip:", 3.14)
+print("Boolean tip:", True)
+print("Liste tip:", [1, 2, 3])
+print("Sözlük tip:", {"ad": "Sabrcan", "yas": 20})
